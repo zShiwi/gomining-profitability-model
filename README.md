@@ -6,6 +6,8 @@ Every constant in [`motor.js`](motor.js) carries its source and the date it was 
 
 > **Unofficial.** Not affiliated with, endorsed or sponsored by GoMining. Results are estimates on assumptions you can change, they can be negative, and nothing here is financial advice.
 
+**Try it in the browser:** [GoMining Calculator on Hugging Face](https://huggingface.co/spaces/zshiwo/gomining-calculator), or the full version at [gominingcalc.com](https://gominingcalc.com/).
+
 ## Quick start
 
 ```bash
